@@ -1,3 +1,5 @@
+![VasDionMous ASCII banner](/vasdionmous.svg)
+
 ## 👋 Γειά
 
 I'm Vassilis, a PhD mathematician specializing in enumerative combinatorics with an interest in data.
