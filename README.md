@@ -1,8 +1,8 @@
-![VasDionMous ASCII banner](/vasdionmous.svg)
+![VasDionMous ASCII banner](/vasdionmous.png)
 
 ## 👋 Γειά
 
-I'm Vassilis, a PhD mathematician specializing in enumerative combinatorics with an interest in data.
+I'm Vassilis, a PhD mathematician specializing in enumerative combinatorics with an interest in data. Take a look [here](https://sites.google.com/view/vasmous/repcomb), if you want to know more about me.
 
 ## 🎓 Education 
 - PhD in Math @ University of Athens, Greece (2018-2021)
