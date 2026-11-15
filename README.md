@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# Hi there, I'm Vassilis <img src="./wave.gif" width="30">
 <!--
 **vasdionmous/vasdionmous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
